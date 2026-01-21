@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi there 👋 I'm Rohit Kumar  
 
-<!--
-**rohit-kumar-in/rohit-kumar-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Java Backend Developer  
+🚀 Working with Spring Boot, REST APIs, and SQL  
+📊 Interested in System Design & Cloud Architecture  
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Spring Boot backend projects  
+- 🌱 I’m currently learning PostgreSQL optimization and system design  
+- 👯 I’m looking to collaborate on backend and API-based projects  
+- 💬 Ask me about Java, SQL, REST APIs, and backend development  
+- 📫 How to reach me: rohitumar797@gmail.com  
+- ⚡ Fun fact: I enjoy solving DSA problems and optimizing slow queries  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack  
+
+**Backend:** Java, Spring Boot, Hibernate, JPA  
+**Database:** MySQL, PostgreSQL  
+**Tools:** Git, Docker, Linux, Postman  
+
+---
+
+### 🌐 Connect With Me  
+
+🔗 LinkedIn: https://linkedin.com/in/rohit-kumar-in  
